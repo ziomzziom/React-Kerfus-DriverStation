@@ -1,0 +1,38 @@
+p{
+  text-align: left;
+}
+
+.status{
+  text-align: center;
+  clear: both;
+}
+
+.sliders{
+  float: left;
+  padding-left: 30px;
+  width: 25%;
+}
+
+.selectform{
+  float: right;
+  padding-top: 40px;
+}
+
+.buttons{
+  text-align: center;
+  clear: both;
+}
+
+.form{
+  float: left;
+  padding-left: 30px;
+}
+
+.kerfexp{
+  text-align: center;
+  padding-right: 30px;
+}
+
+.text{
+  background-color: aliceblue;
+}
