@@ -1,7 +1,7 @@
 # React-Kerfus-DriverStation
  
 <p>lack of node-modules sadge</p>
-
+<hr>
 <p>To run the project locally, you can follow these steps:</p>
 <ul>
 <li>Clone the project repository from GitHub using the command </li>
